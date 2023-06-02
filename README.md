@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&text=Seonyoung%20Yun👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&text=Seonyoung%20Yun&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ### 💜Seonyoung Yun💜
 
