@@ -12,7 +12,7 @@
 
 **✏DEV's Log✏** [https://nyoungyi.com/](https://nyoungyi.com/)
 
-<h3>Stacks📚</h3>
+<h2>Stacks📚</h2>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
