@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&text=Seonyoung%20Yun's%20Git&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=75&height=250)
 
-<h3 style="color:#9065b1">Front-End/Android Engineer</h1>
+<h3 style="color:9065b1">Front-End/Android Engineer</h1>
 
 안녕하세요, **배움의 즐거움을 아는 개발자** 윤선영입니다.
 다양한 기술 스택을 경험하며 역량을 쌓기 위해 노력합니다.
