@@ -1,6 +1,6 @@
 ### 💜Seonyoung Yun💜
 
-Portfolio [배움의 즐거움을 아는 개발자, 윤선영입니다](https://trail-shirt-9e7.notion.site/217a45b622904c7dae2a9647cd24b7a7?pvs=4)
+Portfolio [Seonyoung's Notion Portfolio](https://trail-shirt-9e7.notion.site/217a45b622904c7dae2a9647cd24b7a7?pvs=4)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung)](https://github.com/nyoungnyoung/github-readme-stats)
 
