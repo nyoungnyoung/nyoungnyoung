@@ -6,6 +6,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sa7551)](https://solved.ac/sa7551)
 
 **Portfolio** [Notion Portfolio](https://trail-shirt-9e7.notion.site/217a45b622904c7dae2a9647cd24b7a7?pvs=4)
+
 **Log** [https://nyoungyi.com/](https://nyoungyi.com/)
 
 [![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/nyoungnyoung/github-readme-stats)
