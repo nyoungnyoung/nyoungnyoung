@@ -12,9 +12,6 @@
 
 **✏DEV's Log✏** [https://nyoungyi.com/](https://nyoungyi.com/)
 
-
-![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true)
-
 <h3>Stacks📚</h3>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -40,6 +37,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
     
 </div><br>
+
+![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true)
 
 
 <!--
