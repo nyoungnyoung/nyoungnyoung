@@ -15,7 +15,7 @@
 [![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&count_private=true)](https://github.com/nyoungnyoung/github-readme-stats)
 
 
-
+[![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&include_all_commits=true&count_private=true)](https://github.com/nyoungnyoung/github-readme-stats)
 
 
 
