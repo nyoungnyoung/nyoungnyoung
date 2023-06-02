@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💜Seonyoung Yun💜
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung)](https://github.com/nyoungnyoung/github-readme-stats)
 
