@@ -9,7 +9,7 @@
 
 **Log** [https://nyoungyi.com/](https://nyoungyi.com/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung)](https://github.com/nyoungnyoung/github-readme-stats)
+[![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&include_all_commits=true&count_private=true)](https://github.com/nyoungnyoung/github-readme-stats)
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
