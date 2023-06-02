@@ -14,14 +14,23 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyoungnyoung&count_bg=%239DCFF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
+<div style="display:flex">
+  <div>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyoungnyoung&count_bg=%239DCFF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sa7551)](https://solved.ac/sa7551)
 
 **Portfolio** [Notion Portfolio](https://trail-shirt-9e7.notion.site/217a45b622904c7dae2a9647cd24b7a7?pvs=4)
 
 **Log** [https://nyoungyi.com/](https://nyoungyi.com/)
+  </div>
+  <div>
+    [![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/nyoungnyoung/github-readme-stats)
+  </div>
+</div>
 
-[![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/nyoungnyoung/github-readme-stats)
+
+
+
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
