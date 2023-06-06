@@ -38,7 +38,7 @@
     
 </div><br>
 
-![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true)
+<!-- ![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true) -->
 
 
 <!--
