@@ -40,6 +40,21 @@
     
 </div><br>
 
+
+<div align="center">
+ 
+  ### 😁 Baekjoon Solved 😁
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa7551&card_width=1000)](https://solved.ac/profile/sa7551)
+  <img src="http://mazandi.herokuapp.com/api?handle=sa7551&theme=warm"/>
+ 
+  ### 👩‍💻  GitHub 👩‍💻 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nyoungnyoung&card_width=1000)](https://git.io/streak-stats)
+ 
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+
 <!-- ![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true) -->
 
 
