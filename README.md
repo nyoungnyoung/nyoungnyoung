@@ -2,7 +2,7 @@
 
 <h1>Front-End/Android Engineer</h1>
 
-
+<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyoungnyoung&count_bg=%239DCFF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
     
 </div><br>
-
+</div>
 
 <div align="center">
  
@@ -50,25 +50,9 @@
   ### 👩‍💻  GitHub 👩‍💻 
   [![GitHub Streak](https://streak-stats.demolab.com?user=nyoungnyoung&card_width=1000)](https://git.io/streak-stats)
  
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+  ![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true) 
   
 </div>
 
 
 <!-- ![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true) -->
-
-
-<!--
-**nyoungnyoung/nyoungnyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
