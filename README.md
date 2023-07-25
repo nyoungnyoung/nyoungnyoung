@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&text=Seonyoung%20Yun's%20Git&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=75&height=250)
 
+<div align="center">
+
 <h1>Front-End/Android Engineer</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyoungnyoung&count_bg=%239DCFF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) 
-
-<div align="center">
     
 **💜Portfolio💜** [Notion Portfolio](https://trail-shirt-9e7.notion.site/217a45b622904c7dae2a9647cd24b7a7?pvs=4)
 
@@ -39,11 +39,11 @@
 
 <div align="center">
  
-  ### 😁 Baekjoon Solved 😁
+  ### ✨ Baekjoon Solved ✨
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa7551&card_width=1000)](https://solved.ac/profile/sa7551)
   <img src="http://mazandi.herokuapp.com/api?handle=sa7551&theme=warm"/>
  
-  ### 👩‍💻  GitHub 👩‍💻 
+  ### ⭐ GitHub ⭐ 
   [![GitHub Streak](https://streak-stats.demolab.com?user=nyoungnyoung&card_width=1000)](https://git.io/streak-stats)
  
   ![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true) 
