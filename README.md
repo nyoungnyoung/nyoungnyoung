@@ -46,6 +46,8 @@
   ### ✨ Baekjoon Solved ✨
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sa7551&card_width=1000)](https://solved.ac/profile/sa7551)
   <img src="http://mazandi.herokuapp.com/api?handle=sa7551&theme=warm"/>
+
+<br/>
  
   ### ⭐ GitHub ⭐ 
   [![GitHub Streak](https://streak-stats.demolab.com?user=nyoungnyoung&card_width=1000)](https://git.io/streak-stats)
