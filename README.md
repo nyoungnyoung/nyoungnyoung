@@ -52,7 +52,6 @@
   ### ⭐ GitHub ⭐ 
   [![GitHub Streak](https://streak-stats.demolab.com?user=nyoungnyoung&card_width=1000)](https://git.io/streak-stats)
  
-<!-- ![Seonyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyoungnyoung&show_icons=true&include_all_commits=true&count_private=true) -->
   
 </div>
 
