@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&text=Seonyoung%20Yun's%20Git&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=75&height=250)
 
-<h1>Front-End/Android Engineer</h1>
+<h1>Front-End Engineer</h1>
 
 <div align="center">
 
